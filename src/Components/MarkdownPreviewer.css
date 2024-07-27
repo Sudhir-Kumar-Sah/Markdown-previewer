@@ -1,0 +1,20 @@
+
+.row{
+    display:flex;
+    margin: 50px;
+}
+.column {
+    float: left;
+    padding: 10px;
+    /* height: 300px;  */
+  }
+  
+  .left {
+    width: 35%;
+    
+  }
+  
+  .right {
+    width: 65%;
+    border: 1px solid black;
+  }
